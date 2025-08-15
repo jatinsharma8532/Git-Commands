@@ -1,4 +1,4 @@
 # Git-Commands
 All Git Commands
 <br>
-By Jatin Sharma
+By Jatin Sharma ji
